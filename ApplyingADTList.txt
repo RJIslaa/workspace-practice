@@ -1,0 +1,27 @@
+Exercise 1:
+Write a function called EliminateDuplicates, 
+the function takes in an ADT List, and it will eliminate the duplicates of that ADT List.
+
+function EliminateDuplicates (list A)
+    for (int i = 0; i <= a.Size; i++)
+        if(A.get(i) == A.get(i + 1))
+                    A.remove(i)
+    
+    return A;
+
+
+
+
+Exercise 2:
+Write a function Reverse, the function takes in an ADT List, 
+returns a new ADT List with the reversed elements.
+
+function Reverse(list L)
+    m.List()
+    m.initialize()
+    for(int i = 0; i <= L.Size; i++)
+        m.insert(L.get(L.Size(i)), 0)
+        m.Remove(L.Size())
+
+    return m.List()
+        
